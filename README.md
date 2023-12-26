@@ -71,6 +71,7 @@ Two models are implemented: a feature extraction model using EfficientNetB0 and 
 
 The notebook evaluates the final model on the test dataset and provides a confusion matrix for performance analysis.
 ## Prediction on Unseen Data
+![image](https://github.com/areebanaz941/Natural-Scene-Classification-using-CNN/assets/129813908/02e7eb58-9c47-4750-b94f-162f9027ff58)
 
 A few images from the prediction set are randomly selected, and the model's predictions are visualized.
 ## Conclusion
@@ -79,4 +80,9 @@ The notebook concludes with an overview of the implemented tasks and provides in
 ## Graphs and Results
 
 Graphs and results, including loss curves, training and validation accuracy, and confusion matrix, are visualized within the notebook.
+![image](https://github.com/areebanaz941/Natural-Scene-Classification-using-CNN/assets/129813908/e25091e7-3190-4fab-a91b-f6be2e179d73)
+
+![image](https://github.com/areebanaz941/Natural-Scene-Classification-using-CNN/assets/129813908/7e6c26a9-77c2-46bc-963e-c36539e51c2a)
+
+![image](https://github.com/areebanaz941/Natural-Scene-Classification-using-CNN/assets/129813908/f297073b-a042-48fc-98c5-15ecd9ee70d7)
 
